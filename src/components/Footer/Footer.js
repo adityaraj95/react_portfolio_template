@@ -37,9 +37,7 @@ const Footer = () => {
           <SocialIcons href="https://steamcommunity.com/id/adityaraj95/">
             <FaSteam size="3rem" />
           </SocialIcons>
-          <SocialIcons href='https://wwww.twitter.com/chauhanadi_9/'>
-          <FaTwitter size="3rem" />
-        </SocialIcons>
+
         </SocialContainer>
       </SocialIconsContainer>
     </FooterWrapper>

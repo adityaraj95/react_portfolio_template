@@ -34,15 +34,12 @@ const Header = () =>  ( //todo : add react-animations
       <li>
         <Link href="#">
           <NavLink>Blogs</NavLink>
-        </Link>
-        <FaLock></FaLock>
-      </li>
-      <li>
-        <Link href="#">
+        </Link> /<Link href="#">
           <NavLink> Portfolio</NavLink>
-        </Link>
-        <FaLock></FaLock>
-      </li>             
+        </Link>  <FaLock />
+        
+      </li>
+          
     </Div2>
       <Div3>
         <SocialIcons href="https://www.github.com/adityaraj95">
@@ -56,9 +53,6 @@ const Header = () =>  ( //todo : add react-animations
         </SocialIcons>
         <SocialIcons href='https://steamcommunity.com/id/adityaraj95/'>
           <FaSteam size="3rem" />
-        </SocialIcons>
-        <SocialIcons href='https://wwww.twitter.com/chauhanadi_9/'>
-          <FaTwitter size="3rem" />
         </SocialIcons>
       </Div3>
     </Container>
