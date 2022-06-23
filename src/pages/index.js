@@ -7,6 +7,7 @@ import Media from '../components/Media/Media';
 import Timeline from '../components/TimeLine/TimeLine';
 import { Layout } from '../layout/Layout';
 import { Section } from '../styles/GlobalComponents';
+import {Sudoku} from '../components/Sudoku/SudokuLand';
 
 const Home = () => {
   return (
@@ -20,6 +21,7 @@ const Home = () => {
       <Timeline />
       <Acomplishments />
       <Media />
+      <Sudoku/>
     </Layout>
   );
 };
