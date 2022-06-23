@@ -10,3 +10,4 @@ Live : https://www.alphaadidas.com/
 
 UNDER CONSTRUCTION....
 
+**TODO: add Chess , Sudoku and Blogs as part of this single paged react app**
